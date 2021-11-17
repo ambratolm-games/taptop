@@ -1,0 +1,46 @@
+﻿[Details]
+
+[General]
+Title : ..........
+Release Date : 2018
+Version : 1.0
+Languages : English
+Platform : Android
+File Size : ~0MB
+Author : Ambratolm
+Company : Elhafid Games
+
+[Description]
+Tap delicious tomatos and avoid dangerous bombs.
+TapTop is a simple and fun taping game.
+The red orbs are tomatos, tap them.
+The black orbs are bombs, avoid them.
+
+[How To Play]
+1- Every time, a tomato or a bomb will appear
+2- Tap tomatos to survive and score
+3. Avoid taping bombs to not loose life points
+4. When a tomato appears it charges the red bar
+5. If the red bar is filled you loose a life point
+6. Discharge red bar by taping tomatos
+HUD:
+The green bar is life points.
+The red bar is tomato tax.
+The yellow bar is rank score progression.
+The big counter in the middle is current score.
+
+[Credits]
+Game : Ambratolm
+Graphics : Ambratolm
+Audio : Ambratolm
+
+[Special Thanks]
+Mother
+Father
+Brother
+Sister
+
+[Copyright]
+Game 2018 Version 1.0 
+Copyright © 2018 Elhafid Games
+Game by	Ambratolm
